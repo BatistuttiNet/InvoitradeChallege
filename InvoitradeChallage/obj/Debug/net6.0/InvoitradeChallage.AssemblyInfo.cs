@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InvoitradeChallage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dc4322be3c860578c0262797cbcce7bac088be1")]
 [assembly: System.Reflection.AssemblyProductAttribute("InvoitradeChallage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InvoitradeChallage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
