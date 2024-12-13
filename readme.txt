@@ -38,7 +38,7 @@ El desafío consiste en refactorizar el código y añadir las siguientes funcion
 
 ### Reglas Generales
 
-- Puedes realizar todos los cambios necesarios para mejorar la calidad del código, tanto en términos de legibilidad como de arquitectura.
+- Puedes realizar todos los cambios necesarios para mejorar la calidad del código, tanto en términos de legibilidad como de arquitectura y mejoras de negocio (Completa liberta de agregar objetos de dominio si los ven necesarios.)
 - Sigue buenas prácticas de desarrollo: patrones de diseño, principios SOLID, y convenciones de nomenclatura.
 
 Crea tu propia version del codigo en git y envialo a mi correo: mariano.batistutti@invoitrade.com
