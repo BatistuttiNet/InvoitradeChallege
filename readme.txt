@@ -18,19 +18,22 @@ El desafío consiste en refactorizar el código y añadir las siguientes funcion
 
 ### Funcionalidades Requeridas
 
-1. **Persistencia con Base de Datos (Code First)**  
+1.***Api***
+   Exponer las API, para creacion, obtención y cambio de estado. Tener en cuenta la seguridad de los datos de la misma (No es requerido un JWT ni ningun metodo de authenticación)
+
+2. **Persistencia con Base de Datos (Code First)**  
    Implementar el uso de Entity Framework para la persistencia de datos utilizando un enfoque Code First.  
 
-2. **Worker para Documentos Vencidos**  
+3. **Worker para Documentos Vencidos**  
    Crear un worker que, diariamente, revise los documentos vencidos y actualice su estado correspondiente en el sistema.  
 
-3. **Método para Transición de Estados**  
+4. **Método para Transición de Estados**  
    Agregar un método que permita cambiar documentos con estado *pendiente* a *negociable*.  
 
-4. **Validaciones**  
-   Incluir validaciones robustas para garantizar la integridad de los datos y reglas de negocio.  
+5. **Validaciones**  
+   Incluir validaciones robustas para garantizar la integridad de los datos y reglas de negocio.   
 
-5. **Pruebas Unitarias**  
+6. **Pruebas Unitarias**  
    Desarrollar un conjunto completo de pruebas unitarias para garantizar la funcionalidad y calidad del sistema.  
 
 ### Reglas Generales
