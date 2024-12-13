@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "InvoitradeChallage.Controllers.NegotiablerDocumentsController",
+    "Method": "Get",
+    "RelativePath": "NegotiablerDocuments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "InvoitradeChallage.NegotiableDocument",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetNegotableDocument"
+  }
+]
